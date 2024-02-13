@@ -25,7 +25,7 @@ const numberOfBooksRead = () => {
     
     // Return the count of read books
     return readBooks.length;
-}
+
 };
 
 // Do not change the code below
